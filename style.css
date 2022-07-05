@@ -1,1 +1,36 @@
-body{background-color: aquamarine;}
+.first-page {
+    background-image: url(first1.jpg);
+    height: 700px;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    font-size: 60px;
+    font-family: 'Heebo', sans-serif;
+    text-align: center;
+    padding-top: 20%;
+}
+
+#first-para {
+
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.first-button {
+    text-decoration: none;
+    background-color: #ff4750ef;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 4px;
+
+}
+
+#link {
+    text-align: center;
+}
