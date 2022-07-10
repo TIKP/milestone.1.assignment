@@ -74,7 +74,7 @@ h1 {
     font-size: 20px;
     text-decoration: solid;
     color: gray;
-    font-family:sans-serif;
+    font-family: sans-serif;
 
 }
 
@@ -143,3 +143,76 @@ h3 {
 .para {
     color: rgb(105, 98, 98);
 }
+
+.section4 {
+    height:50%;
+    width: 40%;
+    margin-left:8%;
+    padding: 25px;
+    
+}
+.section4-padding{
+
+    padding-top: 200px;
+}
+.section4-img {
+    
+    height: 400px;
+    width: 400px;
+    padding:5px;
+    position:absolute;
+}
+
+#section4-h1 {
+    color: black;
+    font-size: 50px;
+    text-align: left;
+    padding-top: 30%;
+}
+
+.section4-para {
+    color: gray;
+    font-size: large;
+    text-align: left;
+}
+
+.section4-button {
+    text-decoration: none;
+    background-color: #ff4750ef;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+
+}
+
+#link4 {
+    text-align: left;
+    padding-top: 20px;
+}
+.section5-img {
+    
+    height: 400px;
+    width: 400px;
+    margin-left:17%;
+    padding-top: 100px;
+    padding-left: 55px;
+    padding-right: 50px;
+}
+#section5-h1 {
+    color: black;
+    font-size: 40px;
+    text-align: left;
+    padding-top: 10%;
+}
+.section5 {
+    height:40%;
+    width: 30%;
+    margin-left:10%;
+    
+    padding:40px;
+    text-align: left;
+
+    }
