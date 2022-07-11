@@ -51,7 +51,7 @@ h1 {
 
 .second-second-div {
 
-    margin-left: 25%;
+    margin-left: 22%;
     margin-right: 25%;
     padding: 25px;
     color: grey;
@@ -68,26 +68,32 @@ h1 {
     display: flex;
 }
 
+.taka {
+    width: 60%;
+    height: 150px;
+    margin-left: 300px;
+    margin-top: 30px;
 
-.box {
-    margin-left: 3%;
-    padding: 25px;
-    height: 40px;
-    background-color: rgba(235, 235, 235, 0.384);
-    font-size: 20px;
-    text-decoration: solid;
-    color: gray;
+}
+
+.taka a {
     font-family: sans-serif;
-
+    text-align: center;
+    font-weight: 700;
+    font-size: 25px;
+    background-color: rgba(245, 240, 240, 0.877);
+    color: gray;
+    float: left;
+    padding: 45px 30px;
+    margin-left: 2%;
 }
 
-.box2 {
-    background-color: pink;
-    color: #ff4750ef;
-    border-style: solid;
-    border-width: 2px;
-    border-color: #ff4750ef;
+.taka a:hover {
+    border: 3px solid rgb(249, 100px, 100px);
+    background-color: #d88f8f;
+    transition: 0.01s;
 }
+
 
 .text {
     border: none;
@@ -95,8 +101,8 @@ h1 {
     color: darkgrey;
     padding-bottom: 5px;
     text-align: center;
-    margin-left: 20px;
     margin-bottom: 15px;
+    margin-left: 0px;
 
 
 }
@@ -275,7 +281,7 @@ footer {
 }
 
 .section5-h2 {
-    font-style:italic;
+    font-style: italic;
     color: red;
     text-align: center;
     padding-top: 50px;
